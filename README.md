@@ -21,8 +21,6 @@ To use the NavigationMenu component in your project, follow these steps:
 
 ## Props 
 ### NavigationMenu
-
-### NavigationMenu
 `darkMode` (optional boolean): Determines whether the navigation menu should be displayed in dark mode.
 
 ### NavigationMenu.Item
@@ -267,10 +265,5 @@ All HTMLAttributes: You can pass any valid HTML attribute to customize the behav
 ## Prerequisites
 This component requires Node v14 or later to work correctly with NextJS framework version ^13
 The following dependencies were used for this component:
-1. "@types/node": "20.4.1",
-2. "@types/react": "18.2.14",
-3. "@types/react-dom": "18.2.6",
-4. "next": "13.4.9",
-5. "react": "18.2.0",
-6. "react-dom": "18.2.0",
-7. "typescript": "5.1.6"
+1. "react": "^18.2.0",
+2. "react-dom": "^18.2.0"

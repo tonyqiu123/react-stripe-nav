@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useEffect, useRef, HTMLAttributes, Children, useMemo } from 'react';
+import React, { createContext, useContext, useState, useEffect, useRef, HTMLAttributes, useMemo } from 'react';
 import './NavigationMenu.css';
 import dropDownIcon from './assets/dropdownIcon.svg'
 

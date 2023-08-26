@@ -1,9 +1,6 @@
-import { useState } from 'react'
-
 import NavigationMenu from './NavigationMenu'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
