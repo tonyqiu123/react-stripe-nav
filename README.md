@@ -1,7 +1,7 @@
 # NavigationMenu
 <a href="https://youtu.be/jW93ckQQdYY" target="_blank">Watch live demo on youtube</a>
 
-<a href="https://100daysofcomponents.netlify.app/NavigationMenu" target="_blank">Demo it yourself</a>
+<a href="https://50daysofcomponents.vercel.app/NavigationMenu" target="_blank">Demo it yourself</a>
 
 <a href="https://100daysofcomponents.netlify.app/NavigationMenu" target="_blank"><img src="https://cdn.discordapp.com/attachments/715319623637270638/1144437659834523668/image.png"/></a>  
 
